@@ -11,7 +11,6 @@ The project uses **150K+ booking records** from 2025 to identify operational pat
 The dashboard provides a consolidated view of Uber's ride and booking performance through interactive KPIs, time-based analysis, vehicle-level comparisons, booking-status breakdowns, ratings, and top pickup/drop locations.
 ![Power BI](Images/Uber Data Analysis 0002.jpg)
 
-
 ### Key Business Questions
 
 * How many bookings were completed vs. lost?
